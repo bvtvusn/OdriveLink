@@ -1,0 +1,25 @@
+#######################################
+# Syntax Coloring Map For OdriveCallbackLib
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+OdriveLink	KEYWORD1
+charParamFuncPtr	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+ 
+CharsToFloat	KEYWORD2
+RequestString	KEYWORD2
+SendWithChecksum	KEYWORD2
+ProcessInputs	KEYWORD2
+setTimeout	KEYWORD2
+setSerial	KEYWORD2
+ 
+#######################################
+# Constants (LITERAL1)
+#######################################
